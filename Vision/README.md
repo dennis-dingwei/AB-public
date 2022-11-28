@@ -5,7 +5,7 @@ The World Wide Web was conceived more than 25 years ago as a tool for sharing in
 
 The Web is a force for good, and it has catalyzed major social changes, substantially. At the same time, the Web's phenomenal success has led to many unintended consequences that inflict significant distress on society: openness and anonymity enable scams, phishing, and fraud. Ease of gathering personal information spawned business models that mined and sold detailed user behaviors, without people’s awareness or consent. The acceleration of global information sharing enabled misinformation to flourish, to be exploited for political or commercial gain, divide societies, and to incite hate.  We must do better.  We must take steps to address these unintended consequences in the standards we develop.
 
-Technology is not neutral, and new technologies facilitate new actions, and enable new possibilities, positively or negatively. We are proud of the good enabled by our web technologies; we will take the responsibility to use our values both to assess the potential and actual impact of our work, especially the negative, and to optimize these technologies throughout their lifecycles.
+Technology is not neutral, and new technologies facilitate new actions, and enable new possibilities, positively or negatively. We are proud of the good enabled by our web technologies, and we will take the responsibility to use our values both to assess the potential and actual impact of our work, especially to address the negative, and to optimize these technologies throughout their lifecycles.
 
 Our vision is for a World Wide Web that to be more integrity, which could be approached by more inclusive, more respectful of its users, supporting truth better than falsehood, people more than profits, humanity rather than hate. Thus, the Web will not only grow in scope and importance in our lives, but also grow in respect for its users, grow in the trust of its users, and grow in its inclusion of all humanity as its users.
 
@@ -36,11 +36,11 @@ We will continue to develop a world-wide web that
 # The Operating Principles of the Consortium
 
 In our operations and membership, we will:
-*	Provide an open forum, where diverse voices from around the world and industries come together, incubate and build consensus for global standards for Web technologies, including organizations of all sizes (from single-person companies to multi-nationals) and considering public feedback.
+*	Provide an open forum, where diverse voices, without discrimination, from around the world and industries come together, incubate and build consensus for global standards for Web technologies, including organizations of all sizes (from single-person companies to multi-nationals) and considering public feedback.
 * Encourage incubation in new areas and industries with open platforms for discussion, collaboration and innovation, making it more structured and improving consensus-building among key stake holders.
-* Strive for the broadest participation, along axes including worldwide participation, diversity and inclusion, facilitating balance, equity and cooperation among the participants from different industries, user groups and organizational sizes, and thus establishing W3C as representative of the whole community.
+* Strive for the broadest participation, along axes including worldwide participation, diversity and inclusion, facilitating balance, equity and cooperation among the participants from different nations, industries, user groups and organizational sizes, and thus establishing W3C as representative of the whole community.
 * Increase involvement of under-represented key stakeholders such as end users, content creators, developers etc.
-* Ensure transparency, equity and fairness. Our work will not be exclusively dominated by any person, company or interest group.
+* Ensure transparency, equity and fairness. Our work will not be exclusively dominated by any person, company, interest group or nations.
 * Establish and improve collaborative relationships with other organizations in the domain of Internet and Web standards, including building and maintaining respected relationships with governments and businesses for providing credible advice.
 
 # Acknowledgements and Supporting Material
